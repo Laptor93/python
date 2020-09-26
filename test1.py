@@ -16,5 +16,5 @@ axs[0, 0].hist(data[0])
 axs[1, 0].scatter(data[0], data[1])
 axs[0, 1].plot(data[0], data[1])
 axs[1, 1].hist2d(data[0], data[1])
-
+#fc
 plt.show()
